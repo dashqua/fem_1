@@ -1,4 +1,4 @@
-# fem_1 Stationnary code
+# fem_1 Stationnary code (Work in progress)
 
 Here I post one of my last work (at the 1st of December, 2017) on a the Finite Element Method.
 My goal is to observe the behavior of a couple (wing , air flow) at subsonic velocity.

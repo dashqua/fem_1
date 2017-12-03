@@ -10,12 +10,14 @@ To be able to pursue we have to dive in a little bit of physics consideration, I
 - About the wing, I am studying the NACA0012 airfoil which is available [here](http://airfoiltools.com/airfoil/details?airfoil=n0012-il)
 - I use a collection of fortran tools, originally provided in my training and based of some fortran libs and GMSH meshtool. All the credits are mentionned in the code
 
+I modified some parts of the code and tidied the directory. It is still not as modular as I want it to be because in one hand the module management (library + some other ones..) are a bit messy for me and in another hand the code has still to be modified to handle different mesh options. Those are axis of improvment, feel free to do so
+
 ## Reqs
 
-GMSH
-MatLab (not Octave)
-gfortran
-libs already included 
+GMSH  
+MatLab (not Octave)  
+gfortran  
+libs already included   
 
 ### Build mesh
 ```

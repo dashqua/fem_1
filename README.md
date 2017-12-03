@@ -12,8 +12,15 @@ To be able to pursue we have to dive in a little bit of physics consideration, I
 
 ## Reqs
 
-### Build mesh
+GMSH
+MatLab (not Octave)
+gfortran
+libs already included 
 
+### Build mesh
+```
+tuning
+```
 
 
 ### Compile

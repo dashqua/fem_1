@@ -1,4 +1,4 @@
-# fem_1 Stationnary code (Work in progress)
+## fem_1 Stationnary code (Work in progress)
 
 Here I post one of my last work (at the 1st of December, 2017) on a the Finite Element Method.
 My goal is to observe the behavior of a couple (wing , air flow) at subsonic velocity.
@@ -11,3 +11,10 @@ To be able to pursue we have to dive in a little bit of physics consideration, I
 - I use a collection of fortran tools, originally provided in my training and based of some fortran libs and GMSH meshtool. All the credits are mentionned in the code
 
 OK let's move to the real stuff:
+
+# Build mesh
+
+# Compile
+
+# Run
+

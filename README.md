@@ -1,4 +1,4 @@
-### fem_1 Stationnary code (Work in progress)
+# fem_1 Stationnary code (Work in progress)
 
 Here I post one of my last work (at the 1st of December, 2017) on a the Finite Element Method.
 My goal is to observe the behavior of a couple (wing , air flow) at subsonic velocity.
@@ -10,11 +10,15 @@ To be able to pursue we have to dive in a little bit of physics consideration, I
 - About the wing, I am studying the NACA0012 airfoil which is available [here](http://airfoiltools.com/airfoil/details?airfoil=n0012-il)
 - I use a collection of fortran tools, originally provided in my training and based of some fortran libs and GMSH meshtool. All the credits are mentionned in the code
 
-OK let's move to the real stuff:
+## Reqs
 
-# Build mesh
+### Build mesh
 
-# Compile
 
-# Run
+
+### Compile
+
+
+
+### Run
 

@@ -47,10 +47,11 @@ It generates solutionnaca.dat which is the solution file, obviously.
 
 Fire up MatLab and run trace_naca.m to draw trajectories.
 
+### Clean
 
-
-
-
+```
+make clean
+```
 
 
 
